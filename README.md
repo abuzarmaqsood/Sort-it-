@@ -1,2 +1,2 @@
-# Sort-it Project
-to visualize bubble, insertion and heap sorting algoritms
+# Sort-it!
+to visualize bubble, insertion and heap sorting algorithms
