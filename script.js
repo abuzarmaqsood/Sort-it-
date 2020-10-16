@@ -114,7 +114,6 @@ function pushSwap(a, b) {
 }
 
 var intQueue;
-
 function runQueue() 
 {
     if (funqueue.length > 0) {
